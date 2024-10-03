@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-  <title>ELiGuoGuo</title>
+  <title>GuoGuo</title>
   
   
-  <link href="http://example.com/atom.xml" rel="self"/>
+  <link href="https://litougua.github.io/gu/atom.xml" rel="self"/>
   
-  <link href="http://example.com/"/>
+  <link href="https://litougua.github.io/gu/"/>
   <updated>2024-07-29T18:38:12.907Z</updated>
-  <id>http://example.com/</id>
+  <id>https://litougua.github.io/gu/</id>
   
   <author>
     <name>果果</name>
@@ -18,8 +18,8 @@
   
   <entry>
     <title>纯纯写作</title>
-    <link href="http://example.com/article/KRYZA8pz.html"/>
-    <id>http://example.com/article/KRYZA8pz.html</id>
+    <link href="https://litougua.github.io/gu/article/KRYZA8pz.html"/>
+    <id>https://litougua.github.io/gu/article/KRYZA8pz.html</id>
     <published>2024-06-19T14:36:29.000Z</published>
     <updated>2024-07-29T18:38:12.907Z</updated>
     
@@ -34,15 +34,15 @@
     
     
     
-    <category term="blog" scheme="http://example.com/categories/blog/"/>
+    <category term="blog" scheme="https://litougua.github.io/gu/categories/blog/"/>
     
     
   </entry>
   
   <entry>
     <title>《藤花箫手》</title>
-    <link href="http://example.com/article/f44f7575.html"/>
-    <id>http://example.com/article/f44f7575.html</id>
+    <link href="https://litougua.github.io/gu/article/f44f7575.html"/>
+    <id>https://litougua.github.io/gu/article/f44f7575.html</id>
     <published>2023-07-29T18:36:00.000Z</published>
     <updated>2024-07-28T14:38:56.773Z</updated>
     
@@ -58,17 +58,17 @@
     
     
     
-    <category term="story" scheme="http://example.com/categories/story/"/>
+    <category term="story" scheme="https://litougua.github.io/gu/categories/story/"/>
     
     
-    <category term="小说" scheme="http://example.com/tags/%E5%B0%8F%E8%AF%B4/"/>
+    <category term="小说" scheme="https://litougua.github.io/gu/tags/%E5%B0%8F%E8%AF%B4/"/>
     
   </entry>
   
   <entry>
     <title>「坠入爱河的体验」｜问答</title>
-    <link href="http://example.com/article/MINhvP0A.html"/>
-    <id>http://example.com/article/MINhvP0A.html</id>
+    <link href="https://litougua.github.io/gu/article/MINhvP0A.html"/>
+    <id>https://litougua.github.io/gu/article/MINhvP0A.html</id>
     <published>2022-09-15T13:16:25.000Z</published>
     <updated>2024-07-29T09:33:11.581Z</updated>
     
@@ -82,15 +82,15 @@
     
     
     
-    <category term="blog" scheme="http://example.com/categories/blog/"/>
+    <category term="blog" scheme="https://litougua.github.io/gu/categories/blog/"/>
     
     
   </entry>
   
   <entry>
     <title>《会魔法的斑马》</title>
-    <link href="http://example.com/article/ljHTw7Di.html"/>
-    <id>http://example.com/article/ljHTw7Di.html</id>
+    <link href="https://litougua.github.io/gu/article/ljHTw7Di.html"/>
+    <id>https://litougua.github.io/gu/article/ljHTw7Di.html</id>
     <published>2022-03-10T06:59:00.000Z</published>
     <updated>2024-07-28T05:55:35.647Z</updated>
     
@@ -106,15 +106,15 @@
     
     
     
-    <category term="story" scheme="http://example.com/categories/story/"/>
+    <category term="story" scheme="https://litougua.github.io/gu/categories/story/"/>
     
     
   </entry>
   
   <entry>
     <title>美好结局</title>
-    <link href="http://example.com/article/57b9d6e3.html"/>
-    <id>http://example.com/article/57b9d6e3.html</id>
+    <link href="https://litougua.github.io/gu/article/57b9d6e3.html"/>
+    <id>https://litougua.github.io/gu/article/57b9d6e3.html</id>
     <published>2021-12-02T03:45:00.000Z</published>
     <updated>2024-07-28T04:35:19.786Z</updated>
     
@@ -130,15 +130,15 @@
     
     
     
-    <category term="blog" scheme="http://example.com/categories/blog/"/>
+    <category term="blog" scheme="https://litougua.github.io/gu/categories/blog/"/>
     
     
   </entry>
   
   <entry>
     <title>《你不知道的事》</title>
-    <link href="http://example.com/article/dInrW5C0.html"/>
-    <id>http://example.com/article/dInrW5C0.html</id>
+    <link href="https://litougua.github.io/gu/article/dInrW5C0.html"/>
+    <id>https://litougua.github.io/gu/article/dInrW5C0.html</id>
     <published>2021-01-15T03:17:44.000Z</published>
     <updated>2024-07-31T09:18:12.518Z</updated>
     
@@ -158,15 +158,15 @@
     
     
     
-    <category term="story" scheme="http://example.com/categories/story/"/>
+    <category term="story" scheme="https://litougua.github.io/gu/categories/story/"/>
     
     
   </entry>
   
   <entry>
     <title>22</title>
-    <link href="http://example.com/article/zD3O2Vpk.html"/>
-    <id>http://example.com/article/zD3O2Vpk.html</id>
+    <link href="https://litougua.github.io/gu/article/zD3O2Vpk.html"/>
+    <id>https://litougua.github.io/gu/article/zD3O2Vpk.html</id>
     <published>2019-10-09T03:16:24.000Z</published>
     <updated>2024-07-28T18:18:42.734Z</updated>
     
@@ -183,15 +183,15 @@
     
     
     
-    <category term="blog" scheme="http://example.com/categories/blog/"/>
+    <category term="blog" scheme="https://litougua.github.io/gu/categories/blog/"/>
     
     
   </entry>
   
   <entry>
     <title>《席勒先生与死神》</title>
-    <link href="http://example.com/article/y6Yu71oF.html"/>
-    <id>http://example.com/article/y6Yu71oF.html</id>
+    <link href="https://litougua.github.io/gu/article/y6Yu71oF.html"/>
+    <id>https://litougua.github.io/gu/article/y6Yu71oF.html</id>
     <published>2019-06-16T15:05:26.000Z</published>
     <updated>2024-07-28T13:48:17.481Z</updated>
     
@@ -209,15 +209,15 @@
     
     
     
-    <category term="story" scheme="http://example.com/categories/story/"/>
+    <category term="story" scheme="https://litougua.github.io/gu/categories/story/"/>
     
     
   </entry>
   
   <entry>
     <title>苦瓜三明治</title>
-    <link href="http://example.com/article/b8b3e7e3.html"/>
-    <id>http://example.com/article/b8b3e7e3.html</id>
+    <link href="https://litougua.github.io/gu/article/b8b3e7e3.html"/>
+    <id>https://litougua.github.io/gu/article/b8b3e7e3.html</id>
     <published>2018-06-06T14:46:04.000Z</published>
     <updated>2024-07-27T14:47:11.042Z</updated>
     
@@ -233,15 +233,15 @@
     
     
     
-    <category term="blog" scheme="http://example.com/categories/blog/"/>
+    <category term="blog" scheme="https://litougua.github.io/gu/categories/blog/"/>
     
     
   </entry>
   
   <entry>
     <title>《寺里茶花落》</title>
-    <link href="http://example.com/article/q4SK8Deg.html"/>
-    <id>http://example.com/article/q4SK8Deg.html</id>
+    <link href="https://litougua.github.io/gu/article/q4SK8Deg.html"/>
+    <id>https://litougua.github.io/gu/article/q4SK8Deg.html</id>
     <published>2016-07-27T15:15:23.000Z</published>
     <updated>2024-07-28T09:25:24.068Z</updated>
     
@@ -258,7 +258,7 @@
     
     
     
-    <category term="story" scheme="http://example.com/categories/story/"/>
+    <category term="story" scheme="https://litougua.github.io/gu/categories/story/"/>
     
     
   </entry>
